@@ -15,7 +15,9 @@ const benedict = [
     'Broodfeather',
     'Boredattourney',
     'Battlestar',
-    'Buildabear'
+    'Buildabear',
+    'Beebop',
+    'Brokeback'
 ]
 const cumberbatch = [
     'Cucumber',
@@ -23,11 +25,20 @@ const cumberbatch = [
     'Catchafish',
     'Coronavirus',
     'Crabsinmypants',
-    'Gardenhose',
     'Carpetbombsyria',
     'Cannotretrievefile',
     'Classicalmusic',
-    'Cumberlandfarms'
+    'Cumberlandfarms',
+    'Coochiedespenser',
+    'Commitviolence',
+    'Cardinalsin',
+    'Cantwalkontwolegs',
+    'Cardtrick',
+    'Coolstorybro',
+    'Candlestick',
+    'Cartoonishfeet',
+    'Catherineyouneedtostop',
+    'Casualdating'
 ]
 
 /**
