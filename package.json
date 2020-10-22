@@ -1,0 +1,33 @@
+{
+  "name": "beneficial-serverlessapp",
+  "version": "1.0.0",
+  "description": "My first serverless app",
+  "private": true,
+  "scripts": {
+    "start": "node ./app/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andydevs/beneficial-serverlessapp.git"
+  },
+  "engines": {
+    "node": "~12.16.3",
+    "npm": "~6.14.4"
+  },
+  "keywords": [
+    "serverless",
+    "express",
+    "benedict",
+    "cumberbatch"
+  ],
+  "author": "Anshul Kharbanda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andydevs/beneficial-serverlessapp/issues"
+  },
+  "homepage": "https://github.com/andydevs/beneficial-serverlessapp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0"
+  }
+}
