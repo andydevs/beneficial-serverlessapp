@@ -17,7 +17,13 @@ const benedict = [
     'Battlestar',
     'Buildabear',
     'Beebop',
-    'Brokeback'
+    'Brokeback',
+    'Brunswick',
+    'Bethlehem',
+    'Bobabba',
+    'Beetlejuice',
+    'Borrowmoney',
+    'Backalley'
 ]
 const cumberbatch = [
     'Cucumber',
@@ -38,7 +44,8 @@ const cumberbatch = [
     'Candlestick',
     'Cartoonishfeet',
     'Catherineyouneedtostop',
-    'Casualdating'
+    'Casualdating',
+    'Caca'
 ]
 
 /**
