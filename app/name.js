@@ -14,7 +14,8 @@ const benedict = [
     'Bordedup',
     'Broodfeather',
     'Boredattourney',
-    'Battlestar'
+    'Battlestar',
+    'Buildabear'
 ]
 const cumberbatch = [
     'Cucumber',
@@ -23,7 +24,10 @@ const cumberbatch = [
     'Coronavirus',
     'Crabsinmypants',
     'Gardenhose',
-    'Carpetbombsyria'
+    'Carpetbombsyria',
+    'Cannotretrievefile',
+    'Classicalmusic',
+    'Cumberlandfarms'
 ]
 
 /**
