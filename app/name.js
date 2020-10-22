@@ -8,11 +8,22 @@
 // List of possible name parts
 const benedict = [
     'Beneficial',
-    'Benedryll'
+    'Benedryll',
+    'Bartholemew',
+    'Bartsimpson',
+    'Bordedup',
+    'Broodfeather',
+    'Boredattourney',
+    'Battlestar'
 ]
 const cumberbatch = [
     'Cucumber',
-    'Serverlessapp'
+    'Serverlessapp',
+    'Catchafish',
+    'Coronavirus',
+    'Crabsinmypants',
+    'Gardenhose',
+    'Carpetbombsyria'
 ]
 
 /**
