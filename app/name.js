@@ -20,7 +20,7 @@ const benedict = [
     'Brokeback',
     'Brunswick',
     'Bethlehem',
-    'Bobabba',
+    'Babbawabba',
     'Beetlejuice',
     'Borrowmoney',
     'Backalley'
