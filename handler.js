@@ -1,9 +1,10 @@
 /**
- * My first serverless app
+ * My first serverless app!
  * 
  * Author:  Anshul Kharbanda
- * Created: 10 - 21 - 2020
+ * Created: 10 - 22 - 2020
  */
+'use strict';
 
 // List of possible name parts
 const benedict = [
@@ -64,8 +65,15 @@ function random(array) {
 }
 
 /**
- * Get random Benedict Cumberbatch name
+ * Get name of Benedict Cumberbatch
  */
-module.exports = function getName() {
-    return random(benedict) + ' ' + random(cumberbatch)
+module.exports.getname = async event => {
+    let string = random(benedict) + ' ' + random(cumberbatch)
+    return {
+        statusCode: 200,
+        headers: {
+            'Content-Type': 'text/plain'
+        },
+        body: string
+    }
 }
