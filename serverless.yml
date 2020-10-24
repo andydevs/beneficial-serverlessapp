@@ -1,3 +1,5 @@
+org: andydevs
+app: beneficial-serverlessapp
 service: beneficial-serverlessapp
 frameworkVersion: '2'
 provider:
