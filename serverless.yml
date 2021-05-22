@@ -1,6 +1,6 @@
 org: andydevs
 app: beneficial-serverlessapp
-service: beneficial-serverlessapp
+service: main
 frameworkVersion: '2'
 provider:
   name: aws
